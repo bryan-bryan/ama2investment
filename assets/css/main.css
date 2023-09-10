@@ -776,10 +776,15 @@ section {
   padding: 20px;
 }
 
+.amap{
+  background-color: #ff8a54;
+  border-radius: 10px;
+}
+
 .service-item {
   position: relative;
   padding: 40px;
-  background: #e3e3e4;
+  background: #e3e3e4cf;
   height: 100%;
   border-radius: 25px;
   transition: transform 0.3s ease-in-out;
